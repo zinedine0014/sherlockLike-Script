@@ -1,0 +1,7 @@
+
+{
+    "sites":{
+        "github":"https://github.com/{}",
+        "devianArt":"https://{}.deviantart.com/"
+    }
+}
